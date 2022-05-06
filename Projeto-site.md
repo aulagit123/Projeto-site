@@ -13,9 +13,9 @@
 - Logomarca:
 - Tamanho dos ícones:
 
-## <u>Página inicial</u> 
+##       <u>Página inicial</u> 
 
-### Títulos e parágrafos:
+###           Títulos e parágrafos:
 
 - Fonte títulos e parágrafos:
 - Tamanho títulos:
@@ -29,13 +29,13 @@
 - Itens do menu:                
 - Background: Vídeo de uma pessoa cozinhando.
 
-###    **>>Main<<**
+###               >>Main<<
 
 - Catálogo de vídeos por categorias
 - Categorias:  Italiana, Árabe, Francesa, Mediterrânea, Saudáveis, Brasileira...
 - Background:
 
-###    >>Footer<<
+###               >>Footer<<
 
 - Redes sociais:
 
