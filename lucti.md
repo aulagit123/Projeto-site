@@ -1,34 +1,55 @@
+
+
 # Projeto site 
 
-## Escolher um tema/Assunto:
+### Tipo: Site de receitas com vídeos (Inspiração: Netflix) 
 
-### **Obs.**  Procurar arquivos pequenos  para melhor carregamento/performance.                                                                                                    **Dica:** Extensão  no google chrome  chamada "Light house" analisa a performance do site se está pesado ou não (performance base acima de 90).
+------
 
--  #### Tags principais para a página inicial: Header, main e footer.
+###### **Obs.  Procurar arquivos pequenos  para melhor carregamento/performance.                                                                                                                                Dica: Extensão  no Google Chrome  chamada "Light house" analisa a performance do site se está pesado ou não (performance base acima de 90).**
 
-- #### Esquema/paleta de cores: 
+- Nome do site:
+- Esquema/paleta de cores:
+- Logomarca:
+- Tamanho dos ícones:
 
-- #### Estilo de menu (vestical ou horizontal):
+## <u>Página inicial</u> 
 
-- #### O que vai ter no menu:
+### Títulos e parágrafos:
 
-- #### Fonte, tamanho e cor padrão:
+- Fonte títulos e parágrafos:
+- Tamanho títulos:
+- Tamanho parágrafos
+- Cor títulos:
+- Cor parágrafos: 
 
-- #### Tamanho de ícones:
+    ###    >>Header<<
 
-- #### Logomarca:
+- Barra de menu Horizontal: 
+- Itens do menu:                
+- Background: Vídeo de uma pessoa cozinhando.
 
-- #### Imagem(Uma imagem que converse com o conteúdo/ que tenha haver):
+###    **>>Main<<**
 
-- ####  Vídeo no background?**Obs.** Usar efeitos com cautela, efeitos demais cansa o usuário e pouco efeito deixa o site morto.
+- Catálogo de vídeos por categorias
+- Categorias:  Italiana, Árabe, Francesa, Mediterrânea, Saudáveis, Brasileira...
+- Background:
 
-- #### Interação (usar com cautela):
+###    >>Footer<<
 
-  #### **Obs. Fiquem a vontade para fazer as alterações.**
+- Redes sociais:
 
-  ####  
+- Background:
 
   
+
+  ### <u>Combinado: Primeiro momento focar em HTML  e todos os membros trabalhar(quando puder) nas demais sessões.</u>
+
+  ### <u>**Obs. Fiquem a vontade para fazer as alterações.**</u>
+
+####  
+
+
 
 
 
