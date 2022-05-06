@@ -45,6 +45,8 @@
 
   ### <u>Combinado: Primeiro momento focar em HTML  e todos os membros trabalhar(quando puder) nas demais sessões.</u>
 
+  ### <u>Atenção com os commits para não dá conflito.</u>
+  
   ### <u>**Obs. Fiquem a vontade para fazer as alterações.**</u>
 
 ####  
